@@ -23,5 +23,3 @@ def logreg(train_data, train_labels, test_data):
     predictions = model_train.predict(test_data_ones)
     w = model.coef_[0]
     return predictions, w
-    
-print "Hello world"
