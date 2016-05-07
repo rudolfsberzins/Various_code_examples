@@ -1,5 +1,3 @@
-#### Exam 2016 Answers by Rudolfs Berzins (ckj464) ####
-
 #### Problem 1 Question 1 ####
 
 hist(data, main = "Histogram of dataset named data")
