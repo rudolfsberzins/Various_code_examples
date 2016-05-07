@@ -13,3 +13,5 @@ SB_Protein_...py is code developed as a modification to produce variations of cl
 SB_RNA_...py is code developed to calculate the Nussinov algorithm of wild type and mutant sequences which then are compared Pearson's 
 correlation coefficient. 
 
+Example of R serves as an example of my ability to code in R. The exercises are from the course called Statistics for Bioinformatics and eScience. 
+
